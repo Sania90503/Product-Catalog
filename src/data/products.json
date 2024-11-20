@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 99.99,
+      "image": "https://plus.unsplash.com/premium_photo-1679864782376-bdbbb87d9027?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
+      "description": "High-quality wireless headphones with noise cancellation."
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "price": 199.99,
+      "image": "https://images.unsplash.com/photo-1598516802414-50a01bee818d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
+      "description": "Stay connected on the go with this stylish smart watch."
+    },
+    {
+      "id": 3,
+      "name": "Organic Coffee Beans",
+      "category": "Grocery",
+      "price": 15.99,
+      "image": "https://images.unsplash.com/photo-1692299107872-1802aa477b7e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
+      "description": "Ethically sourced, delicious organic coffee beans."
+    },
+    {
+        "id": 4,
+      "name": "Yoga Mate",
+      "category": "Fitness",
+      "price": 599,
+      "image": "https://plus.unsplash.com/premium_photo-1666736569449-76c47f56438c?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
+      "description": "Dual Color Anti-Slip Yoga Mat for Gym Workout and Yoga Exercise."
+    }
+  ]
